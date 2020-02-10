@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: index.html
+Disallow: /assets
+Disallow: .htaccess
+Disallow: correo.php
+
+Sitemap: http://abogadopenal.mx/sitemap-location.xml
